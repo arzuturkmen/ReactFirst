@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Mustafa Tamer",
+      "salary": "6",
+      "department": "drtrdthrth",
+      "id": "1"
+    },
+    {
+      "name": "Hatice ghgghhggh",
+      "salary": "6000",
+      "department": "gghh",
+      "id": "2"
+    },
+    {
+      "name": "Kübra Karaca",
+      "salary": "1500",
+      "department": "rrr",
+      "id": "3"
+    }
+  ]
+}

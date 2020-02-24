@@ -6,6 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+.header {
+  color:red;
+  font-size: 56px;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
